@@ -5,7 +5,5 @@
 https://jestjs.io/docs/getting-started
 
 ```
-test('two plus two is four', () => {
-  expect(2 + 2).toBe(4);
-});
+bun jest --watch
 ```
